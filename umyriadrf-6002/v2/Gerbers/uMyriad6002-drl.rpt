@@ -1,0 +1,53 @@
+Drill report for F:\uMyriad6_v2\KiCad Design files\uMyriad6002.kicad_pcb
+Created on 24/11/2015 00:30:51
+Drill report for plated through holes :
+T1  0.20mm  0.008"  (264 holes)
+T2  0.30mm  0.012"  (49 holes)
+
+Total plated holes count 313
+
+
+Drill report for buried and blind vias :
+
+Drill report for holes from layer B.Cu to layer Inner1.Cu :
+
+Total plated holes count 0
+
+
+Drill report for holes from layer Inner1.Cu to layer Inner2.Cu :
+
+Total plated holes count 0
+
+
+Drill report for holes from layer Inner2.Cu to layer Inner3.Cu :
+
+Total plated holes count 0
+
+
+Drill report for holes from layer Inner3.Cu to layer Inner4.Cu :
+
+Total plated holes count 0
+
+
+Drill report for holes from layer Inner4.Cu to layer Inner5.Cu :
+
+Total plated holes count 0
+
+
+Drill report for holes from layer Inner5.Cu to layer Inner6.Cu :
+
+Total plated holes count 0
+
+
+Drill report for holes from layer Inner6.Cu to layer F.Cu :
+
+Total plated holes count 0
+
+
+Drill report for unplated through holes :
+T1  1.00mm  0.039"  (12 holes)
+T2  1.50mm  0.059"  (1 hole)
+
+Total unplated holes count 13
+
+

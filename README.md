@@ -22,21 +22,31 @@ The directory structure for the hardware designs is as follows:
 
 The Myriad-RF Radio Frequency Digital Input Output (RFDIO) connector specification defines the electrical and mechanical properties of a high speed card interface for Field Programmable Gate Array (FPGA) based carrier boards. This specification ensures interoperability between carrier (mother) boards and add-on (daughter) RF cards.
 
-### Myriad-RF 1 module
+*Please note that this needs to be updated with details of the connector specification used by the micro series of boards.*
 
-Hardware design files for the Myriad-RF 1 RF module.
+### Myriad-RF 1 module (myriadrf-1)
+
+Hardware design files for the LMS6002-based Myriad-RF 1 RF module.
 
 Note that there are two versions of the design: one with vias in pads, and another with them off.
 
-### DE0-Nano Interface
+### DE0-Nano Interface (de0nano-interface)
 
-Hardware design files and firmware sources (FPGA HDL + Cypress FX2 code) for the DE0-Nano interface.
+Hardware design files and firmware sources (FPGA HDL + Cypress FX2 code) for the DE0-Nano interface that is used with the original Myriad-RF 1 module.
 
-### Zipper Interface
+### Zipper Interface (zipper)
 
 This interface allows the Myriad-RF 1 to be used with FPGA development boards that have either a HSMC or FMC connector.
 
 *Note that v1 of the hardware design was not made generally available.*
+
+### uMyriadRF-6002 (umyriadrf-6002)
+
+LMS6002 version of the micro form factor RF module.
+
+### uMyriadRF-7002 (umyriadrf-7002)
+
+LMS7002 version of the micro form factor RF module.
 
 ## Licensing
 
