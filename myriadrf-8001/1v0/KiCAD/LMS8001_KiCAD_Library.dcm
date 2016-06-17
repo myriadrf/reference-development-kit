@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0  Date: Wed 08 Jun 2016 03:49:29 PM CEST
+#
+$CMP LMS8001
+D LMS8001
+$ENDCMP
+#
+$CMP USBULC6-2P6
+D USB ESD protection
+$ENDCMP
+#
+#End Doc Library
