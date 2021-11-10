@@ -1,6 +1,6 @@
 # Myriad-RF Hardware
 
-This repository contains the [Myriad-RF](http://myriadrf.org/) reference hardware designs for Lime Microsystem's LMS6002D and LMS7002M transceivers, plus LMS8001 up/down converter, in PDF and [KiCad](http://www.kicad-pcb.org) formats, along with the associated firmware.
+This repository contains the [Myriad-RF](http://myriadrf.org/) reference hardware designs for Lime Microsystem's LMS6002D and LMS7002M transceivers, plus LMS8001 up/down converter, in PDF and [KiCad](http://www.kicad.org) formats, along with the associated firmware.
 
 ## Contents
 
